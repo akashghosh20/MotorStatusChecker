@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "816069646157",
-    "project_id": "motorstatus-1d8ea",
-    "storage_bucket": "motorstatus-1d8ea.appspot.com"
+    "project_number": "673010239596",
+    "project_id": "motorstatuschecker",
+    "storage_bucket": "motorstatuschecker.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:816069646157:android:662733b39b0dab5e208904",
+        "mobilesdk_app_id": "1:673010239596:android:b969381521d58713ac7049",
         "android_client_info": {
           "package_name": "com.example.motorstatuschecker"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDMraNguGAcoULGrEhhvELtlSL26BAb5Kg"
+          "current_key": "AIzaSyBA14X5RRMxVwP7WQUcDnz28NJ7D59czDg"
         }
       ],
       "services": {
